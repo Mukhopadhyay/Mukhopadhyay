@@ -5,8 +5,9 @@ Welcome to my github.
 
 Skills: **Python** | **TensorFlow** | **Keras** | **Pandas** | **Numpy**
 
+- 📈 Will be putting a new repository for all of my known **OpenData** websites.
 - 🔭 I’m currently working on hosting a blog on Github pages. 
-- 🌱 I’m currently learning Rust 
+- 🌱 I’m currently learning **Rust** 
 
 
 [<img src='https://github.githubassets.com/images/modules/logos_page/Octocat.png' alt='github' height='40'>](https://github.com/Mukhopadhyay)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/pranesh-mukhopadhyay-362125170/)  [<img src='https://cdn.iconscout.com/icon/free/png-256/kaggle-3628869-3030009.png' alt='kaggle' height='40'>](https://www.kaggle.com/praneshmukhopadhyay)  
