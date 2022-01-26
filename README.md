@@ -13,7 +13,7 @@ Skills: **Python** | **TensorFlow** | **Keras** | **Pandas** | **Numpy**
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukhopadhyay&show_icons=true&count_private=true)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukhopadhyay&show_icons=true&count_private=true)   -->
 
 ![GitHub metrics](https://metrics.lecoq.io/Mukhopadhyay)  
 
