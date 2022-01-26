@@ -1,6 +1,5 @@
 ### Hi there 👋, this is Pranesh Mukhopadhyay.
-
-##### I am a Data Scientist working in Mumbai.
+#### I am a Data Scientist working in Mumbai.
 
 Welcome to my github.
 
@@ -10,7 +9,7 @@ Skills: **Python** | **TensorFlow** | **Keras** | **Pandas** | **Numpy**
 - 🌱 I’m currently learning Rust 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mukhopadhyay)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pranesh-mukhopadhyay-362125170/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://www.kaggle.com/praneshmukhopadhyay)  
+[<img src='https://github.githubassets.com/images/modules/logos_page/Octocat.png' alt='github' height='40'>](https://github.com/Mukhopadhyay)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/pranesh-mukhopadhyay-362125170/)  [<img src='https://cdn.iconscout.com/icon/free/png-256/kaggle-3628869-3030009.png' alt='kaggle' height='40'>](https://www.kaggle.com/praneshmukhopadhyay)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
