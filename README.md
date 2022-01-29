@@ -1,7 +1,5 @@
 ### Hi there 👋, this is Pranesh Mukhopadhyay.
-#### I am a Data Scientist working in Mumbai.
-
-Welcome to my github.
+#### I am a Data Scientist working in Mumbai, Welcome to my Github.
 
 Skills: **Python** | **TensorFlow** | **Keras** | **Pandas** | **Numpy**
 
