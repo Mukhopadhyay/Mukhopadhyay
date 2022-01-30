@@ -1,8 +1,6 @@
 ## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, this is Pranesh Mukhopadhyay.
 ### I am a Data Scientist working in Mumbai, Welcome to my Github.
 
----
-
 Well, a bit about me I am guided by the principals of <a href='https://en.wikipedia.org/wiki/Open_data' target='_blank'><b>Open Data</b></a> and try to work hard and contribute to the Open source community to bridge the gap that currently exists. Most of my work you'll see will be basd on data wrangling, collecting & overall easier representation of data. (For example, <a href='https://github.com/Mukhopadhyay/restdf' target='_blank'><code>restdf</code></a>)
 
 I love creating & finding interesting datasets and seeing what awesome ideas my fellow programmers, data scientists come up with. Stay tuned on my Kaggle for more of my datasets.
@@ -12,6 +10,8 @@ I love creating & finding interesting datasets and seeing what awesome ideas my 
 - **[Amazon Question and Answer Dataset](https://github.com/Mukhopadhyay/Amazon_QnA_Dataset)** (Also available on **[Kaggle](https://www.kaggle.com/praneshmukhopadhyay/amazon-questionanswer-dataset)**)
 
 Other stuff: **[Configs](https://github.com/Mukhopadhyay/dotfiles)** | **[Gists](https://gist.github.com/Mukhopadhyay)** |
+
+---
 
 ### Skills: 
 ![Python Badge](https://img.shields.io/badge/-Python-306998?style=for-the-badge&labelColor=FFD43B&logo=python&logoColor=306998) 
