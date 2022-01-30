@@ -29,7 +29,7 @@ Other stuff: **[Configs](https://github.com/Mukhopadhyay/dotfiles)** | **[Gists]
 ### Social:
 [<img src='https://github.githubassets.com/images/modules/logos_page/Octocat.png' alt='github' height='40'>](https://github.com/Mukhopadhyay)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/pranesh-mukhopadhyay-362125170/)  [<img src='https://cdn.iconscout.com/icon/free/png-256/kaggle-3628869-3030009.png' alt='kaggle' height='40'>](https://www.kaggle.com/praneshmukhopadhyay)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+<!-- <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>  -->
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukhopadhyay&show_icons=true&count_private=true)   -->
 
