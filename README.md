@@ -7,6 +7,7 @@ I love creating & finding interesting datasets and seeing what awesome ideas my 
 
 #### These are some of the most recent datasets I worked on:
 
+- **[YouTubers-saying-things](https://github.com/Mukhopadhyay/YouTubers-saying-things)** (**[Kaggle](https://www.kaggle.com/praneshmukhopadhyay/youtubers-saying-things)**) Dataset of over 2.5K YouTube video subtitles.
 - **[Amazon Question and Answer Dataset](https://github.com/Mukhopadhyay/Amazon_QnA_Dataset)** (Also available on **[Kaggle](https://www.kaggle.com/praneshmukhopadhyay/amazon-questionanswer-dataset)**)
 
 Other stuff: **[Configs](https://github.com/Mukhopadhyay/dotfiles)** | **[Gists](https://gist.github.com/Mukhopadhyay)** |
