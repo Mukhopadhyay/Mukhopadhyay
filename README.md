@@ -23,7 +23,7 @@ Other stuff: **[Configs](https://github.com/Mukhopadhyay/dotfiles)** | **[Gists]
 
 <!-- Skills: **`Python`** | **`TensorFlow`** | **`Keras`** | **`Pandas`** | **`Numpy`** -->
 
-- 📈 Will be putting a new repository for all of my known **OpenData** websites.
+- 📈 Maintaining the [OpenData](https://github.com/Mukhopadhyay/OpenData) repository with all my known datasets and open data websites.
 - 🔭 I’m currently working on hosting a blog on Github pages. 
 - 🌱 I’m currently learning **Rust** 
 
