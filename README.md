@@ -9,7 +9,7 @@ I love creating & finding interesting datasets and seeing what awesome ideas my 
 
 |Dataset|Description|Links|
 |:------|:----------|:----|
-|**[YouTube-thumbnail-dataset](https://github.com/Mukhopadhyay/YouTube-thumbnail-dataset)**|Image dataset containing YouTube video thumbnail||
+|**[YouTube-thumbnail-dataset](https://github.com/Mukhopadhyay/YouTube-thumbnail-dataset)**|Image dataset containing YouTube video thumbnail|**[Kaggle](https://www.kaggle.com/datasets/praneshmukhopadhyay/youtube-thumbnail-dataset)**|
 |**[YouTubers-saying-things](https://github.com/Mukhopadhyay/YouTubers-saying-things)**|Dataset of over 2.5K YouTube video subtitles|**[Kaggle](https://www.kaggle.com/praneshmukhopadhyay/youtubers-saying-things)**|
 |**[Amazon Question and Answer Dataset](https://github.com/Mukhopadhyay/Amazon_QnA_Dataset)**|Amazon reviews questions and answers|**[Kaggle](https://www.kaggle.com/praneshmukhopadhyay/amazon-questionanswer-dataset)**|
 
