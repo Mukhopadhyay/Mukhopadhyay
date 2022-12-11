@@ -7,6 +7,8 @@ Well, a bit about me I am guided by the principals of <a href='https://en.wikipe
 
 I love creating & finding interesting datasets and seeing what awesome ideas my fellow programmers, data scientists come up with. Stay tuned on my Kaggle for more of my datasets.
 
+I'm currently working on a Python library which will allow the users to use `MongoDB` as a centralized logging place. You can find the repository here: [`Monolg`](https://github.com/Mukhopadhyay/monolg).
+
 #### These are some of the most recent datasets I worked on:
 
 |Dataset|Description|Links|
