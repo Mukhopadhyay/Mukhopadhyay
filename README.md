@@ -7,7 +7,7 @@ Well, a bit about me I am guided by the principals of <a href='https://en.wikipe
 
 I love creating & finding interesting datasets and seeing what awesome ideas my fellow programmers, data scientists come up with. Stay tuned on my Kaggle for more of my datasets.
 
-I'm currently working on a Python library which will allow the users to use `MongoDB` as a centralized logging place. You can find the repository here: [`Monolg`](https://github.com/Mukhopadhyay/monolg).
+I'm currently working on a simple easy to use database using Github Gistsa and python, you'll find more about it here, [GistDB](https://github.com/Mukhopadhyay/gistdb).
 
 #### These are some of the most recent datasets I worked on:
 
@@ -20,7 +20,7 @@ I'm currently working on a Python library which will allow the users to use `Mon
 <!-- - **[YouTubers-saying-things](https://github.com/Mukhopadhyay/YouTubers-saying-things)** (**[Kaggle](https://www.kaggle.com/praneshmukhopadhyay/youtubers-saying-things)**) Dataset of over 2.5K YouTube video subtitles.
 - **[Amazon Question and Answer Dataset](https://github.com/Mukhopadhyay/Amazon_QnA_Dataset)** (Also available on **[Kaggle](https://www.kaggle.com/praneshmukhopadhyay/amazon-questionanswer-dataset)**) -->
 
-Other stuff: **[Configs](https://github.com/Mukhopadhyay/dotfiles)** | **[Gists](https://gist.github.com/Mukhopadhyay)** |
+Other stuff: **[Configs](https://github.com/Mukhopadhyay/dotfiles)** | **[Gists](https://gist.github.com/Mukhopadhyay)**
 
 ---
 
